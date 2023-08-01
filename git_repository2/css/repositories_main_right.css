@@ -4,6 +4,10 @@
     max-width: 896px;
 }
 
+.main-right * {
+    color: #24292f;
+}
+
 .repositories-main-options {
     display: flex;
     justify-content: space-between;
