@@ -7,6 +7,24 @@
     cursor: pointer;
 }
 
+.btn-search-left {
+    padding: 5px 8px 5px 31px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    width: 350px;
+    height: 32px;
+    text-align: left;
+}
+
+.btn-search-right {
+    border-left: none;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    padding: 6px 6px;
+    width: 32px;
+    height: 32px;
+}
+
 .btn-s-left,
 .btn-s-right{
     padding: 3px 12px;

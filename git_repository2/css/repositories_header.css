@@ -29,3 +29,36 @@
     border-radius: 6px;
     background-color: #eee;
 }
+
+.app-header-right {
+    display: flex;
+    justify-content: flex-end;
+    width: 605px;
+}
+
+.search-buttons {
+    position: relative;
+    display: flex;
+}
+
+.search-buttons * {
+    display: inline-block;
+    color: #6e7781;
+}
+
+.icon-search {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+}
+
+.app-header-menu {
+    display: block;
+    padding: 0px 16px;
+    height: 48px;
+}
+
+.menu-list {
+    display: flex;
+
+}
