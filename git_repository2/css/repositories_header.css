@@ -1,0 +1,31 @@
+.app-header {
+    border-bottom: 1.5px solid #dbdbdb;
+    height: 104px;
+    background-color: rgb(246, 248, 250);
+}
+
+.app-header-items {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 16px 8px;
+}
+
+.icon-github {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 8px;
+    width: 32px;
+    height: 32px;
+}
+
+.header-username {
+    padding: 6px 8px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.header-username:hover {
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background-color: #eee;
+}

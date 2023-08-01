@@ -1,0 +1,10 @@
+.app-header {
+    border-bottom: 1.5px solid #dbdbdb;
+    height: 104px;
+    background-color: rgb(246, 248, 250);
+}
+
+.app-header-items {
+    display: flex;
+    padding: 16px 16px 8px;
+}
